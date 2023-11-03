@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\ImageRemoval\obj\Debug\ImageRemoval.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ImageRemoval\obj\Debug\ImageRemoval.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ImageRemoval\obj\Debug\ImageRemoval.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ImageRemoval\bin\Debug\ImageRemoval.exe.config
+C:\Users\Administrator\source\repos\ImageRemoval\bin\Debug\ImageRemoval.exe
+C:\Users\Administrator\source\repos\ImageRemoval\bin\Debug\ImageRemoval.pdb
+C:\Users\Administrator\source\repos\ImageRemoval\obj\Debug\ImageRemoval.exe
+C:\Users\Administrator\source\repos\ImageRemoval\obj\Debug\ImageRemoval.pdb
+C:\Users\Administrator\source\repos\ImageRemoval\obj\Debug\ImageRemoval.Form1.resources
+C:\Users\Administrator\source\repos\ImageRemoval\obj\Debug\ImageRemoval.csprojAssemblyReference.cache
